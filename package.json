@@ -1,0 +1,26 @@
+{
+  "name": "cise_repos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/server"
+  },
+  "author": "Felix Zhang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyd3651/cise_ass1a_worksheet2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gyd3651/cise_ass1a_worksheet2/issues"
+  },
+  "homepage": "https://github.com/gyd3651/cise_ass1a_worksheet2#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
